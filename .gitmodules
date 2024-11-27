@@ -1,0 +1,3 @@
+[submodule "hacker"]
+	path = hacker
+	url = git@github.com:pages-themes/hacker.git
